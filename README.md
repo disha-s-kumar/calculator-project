@@ -18,7 +18,9 @@ It supports addition, subtraction, multiplication, division, and clear/delete fu
 ##  Hosted Demo (GitHub Pages)
 Once deployed, the live link will appear here.
 
+###  Live Demo
+https://disha-s-kumar.github.io/calculator-project/
 
 
-## 📌 Author
+##  Author
 Disha S Kumar
